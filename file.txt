@@ -1,6 +1,10 @@
 'one' 
 'two' 
 'three' 
+<<<<<<< HEAD
 'three (from second-branch)' four
 five
 six
+=======
+'three (from second-branch)' six (from third-branch)
+>>>>>>> third-branch
