@@ -1,5 +1,5 @@
 print('Daftar Hadir')
 # isi dengan nama dan nim
-# print('Nama')
-# print('NIM')
-# print('Hobi')
+print('Naufal Syafiq Safikri')
+print('H1A019039')
+print('Nonton Anime')
