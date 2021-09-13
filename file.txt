@@ -1,4 +1,4 @@
 'one' 
 'two' 
 'three' 
-'three (from second-branch)' 
+'three (from second-branch)' four
