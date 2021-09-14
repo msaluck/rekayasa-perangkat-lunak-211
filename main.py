@@ -1,5 +1,5 @@
 print('Daftar Hadir')
 # isi dengan nama dan nim
-print ("Muhammad Alifudin")
-print ("H1A019029")
-print ("Ngelamun")
+print ("Stefanus Arlian Situmeang")
+print ("H1A019035")
+print ("Nonton Koreaan")
